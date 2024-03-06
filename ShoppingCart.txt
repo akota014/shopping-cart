@@ -1,0 +1,17 @@
+Project Overview
+
+Add to cart
+Delete from cart
+Filter:
+    Ascending
+    Descending
+    Include Out of Stock
+    Fast delivery only
+    Stars
+    Clear Filter
+
+Search a product
+
+Adding a navbar using Header, BrowseRouter is wrapped around header,
+We have used react-boootstrap, react-icons, "react-router-dom", faker
+
